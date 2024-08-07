@@ -19,11 +19,9 @@ export default function CardMovies({titulo,nota,imagem}){
         <Text style ={styles.textNota}> {nota} </Text>
        
        
-    </TouchableOpacity>
-
-  
+    </TouchableOpacity> 
 
     );
 
 
-}
+}d
